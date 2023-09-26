@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SecLayout.iml" filepath="$PROJECT_DIR$/SecLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.iml" filepath="$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SectionLayoutModule/SecLayout.SectionLayoutModule.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SectionLayoutModule/SectionLayoutModule.iml" filepath="$PROJECT_DIR$/SectionLayoutModule/SectionLayoutModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StudioProjects.SecLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/StudioProjects.SecLayout.iml" />
     </modules>
   </component>
 </project>

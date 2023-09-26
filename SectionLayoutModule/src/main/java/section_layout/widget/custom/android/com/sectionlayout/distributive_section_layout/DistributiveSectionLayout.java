@@ -2,11 +2,11 @@ package section_layout.widget.custom.android.com.sectionlayout.distributive_sect
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.annotation.AttrRes;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 
+import androidx.annotation.AttrRes;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import section_layout.widget.custom.android.com.sectionlayout.R;
 import section_layout.widget.custom.android.com.sectionlayout.SectionLayout;
 import section_layout.widget.custom.android.com.sectionlayout.SectionLayoutViewControllerComponent;

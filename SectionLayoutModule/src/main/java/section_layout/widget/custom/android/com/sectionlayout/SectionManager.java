@@ -1,7 +1,7 @@
 package section_layout.widget.custom.android.com.sectionlayout;
 
-import android.support.annotation.IntRange;
-import android.support.annotation.Nullable;
+import androidx.annotation.IntRange;
+import androidx.annotation.Nullable;
 
 /**
  * Created by Robert Apikyan on 8/23/2017.

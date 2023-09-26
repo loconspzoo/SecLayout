@@ -1,6 +1,6 @@
 package section_layout.widget.custom.android.com.sectionlayout.listeners;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 /**
  * Created by Robert Apikyan on 9/5/2017.

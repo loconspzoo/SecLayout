@@ -1,6 +1,5 @@
 package section_layout.widget.custom.android.com.sectionlayout.distributive_section_layout;
 
-import android.support.annotation.NonNull;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;

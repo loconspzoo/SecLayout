@@ -1,8 +1,8 @@
 package section_layout.widget.custom.android.com.sectionlayout;
 
-import android.support.annotation.NonNull;
 import android.view.View;
 
+import androidx.annotation.NonNull;
 import view_component.lib_android.com.view_component.base_view.ViewComponent;
 
 /**
